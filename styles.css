@@ -1,0 +1,2 @@
+/* Bootstrap handles the interface; only limit form width. */
+.student-form { max-width: 640px; }
